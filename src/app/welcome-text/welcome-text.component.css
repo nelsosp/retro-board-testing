@@ -1,0 +1,15 @@
+.welcome-text {
+    font-size: 30px;
+    position: fixed;
+    top: 15%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+}
+
+.welcome-text p {
+    font-size: 20px;
+    color: white;
+    margin-top: 10px;
+}
