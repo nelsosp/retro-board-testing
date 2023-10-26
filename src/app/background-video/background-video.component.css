@@ -1,3 +1,6 @@
+
+
+/* Video background code */
 .background-video-container {
     position: fixed;
 }
@@ -16,4 +19,62 @@ video {
     height: 100%;
     background-color: rgba(0, 0, 0, 0.3);
     z-index: 0;
+}
+
+
+/* Text Modifications */
+.text {
+    position: relative;
+    z-index: 10;
+    text-align: center;
+    color: white;
+    font-weight: 800;
+    text-transform: uppercase;
+    position: relative;
+
+}
+
+.text h1 {
+    padding: 30px;
+    font-size: 3em;
+
+}
+
+
+/* Board creation/existing area */
+.board-container {
+    color: white;
+    position: relative;
+    width: 50%;
+    margin: 300px auto;
+    text-align: center;
+    z-index: 10;
+}
+
+.board-list {
+    color: black;
+    list-style: none;
+    padding: 50px;
+    border-radius: 20px;
+    background-color: rgba(240, 240, 240, 0.3);
+}
+
+.board-list li {
+    margin: 5px 0;
+    font-size: 18px;
+}
+
+.create-board-button {
+    background-color: #007BFF;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.create-board-button:hover {
+    background-color: #0056b3;
 }

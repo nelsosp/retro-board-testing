@@ -3,13 +3,11 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppComponent } from './app.component';
 import { BackgroundVideoComponent } from './background-video/background-video.component';
-import { WelcomeTextComponent } from './welcome-text/welcome-text.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     BackgroundVideoComponent,
-    WelcomeTextComponent,
   ],
   imports: [
     BrowserModule
