@@ -1,5 +1,5 @@
 # Retro Board Team Project
-This was a mockup for the project Retro Board which was a team project while in M.S. Applied Computer Science. Although a different alternative was chosen, I thought it was still worth to showcase the mockup as I believe it was a start to a decent design.
+This was a mockup for the project Retro Board which was a team project while in M.S. Applied Computer Science. Although a different alternative was chosen, I thought it was still worth to showcase the mockup as I believe it was a start to a decent design. This is also the finished project [HERE](https://manohargaddam.github.io/GVSU-CIS641-SOPHOS/)
 
 ## Languages Used
 [![My Skills](https://skillicons.dev/icons?i=angular,ts,html,css,)](https://skillicons.dev)
